@@ -1,4 +1,4 @@
-package Ejercicio.Puntos2d;
+package Puntos2d;
 
 public interface Vec2d {
     //Esta interfaz generalizara el tmaño de los vectores de dos dimensiones
